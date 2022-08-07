@@ -26,7 +26,7 @@
 
 <a href="https://instagram.com/thinuwa2003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thinuwa2003" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/tgmarcade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tgmarcade" height="30" width="40" /></a>
+<a href="https://m.youtube.com/c/TGMArcade_2022" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="tgmarcade" height="30" width="40" /></a>
 
 </p>
 
