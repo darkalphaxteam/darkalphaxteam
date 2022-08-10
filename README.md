@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DARKALPHAXTEAM</h1>
+<h1 align="center">Hi 👋, I'm DARKALPHA</h1>
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
