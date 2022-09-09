@@ -10,6 +10,8 @@
 
 - 🌱 I’m currently learning **Javascript**
 
+- 🔝 I'm 19 Years Old....
+
 - 👯 I’m looking to collaborate on [CYBER-X WHATSAPP BOT](https://github.com/darkalphaxteam/CYBER-X-MD-VOL-01)
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkalphaxteam](https://github.com/darkalphaxteam)
