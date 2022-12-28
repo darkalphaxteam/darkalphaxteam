@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm DARKALPHA</h1>
+<h1 align="center">Hi 👋, I'm Thinura Pemarathana </h1>
 
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🔝 I'm 19 Years Old....
+- 🔝 I'm 20 Years Old....
 
 - 👯 I’m looking to collaborate on [CYBER-X WHATSAPP BOT](https://github.com/darkalphaxteam/CYBER-X-MD-VOL-01)
 
