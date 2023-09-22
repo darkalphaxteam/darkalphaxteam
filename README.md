@@ -20,7 +20,7 @@
 
 <p align="left">
 
-<a href="https://twitter.com/GmThinura" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="thinura2003" height="30" width="40" /></a>
+<a href="https://whatsapp.com/channel/0029Va5EQi7CRs1lXmZYKw0x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="DARKALPHAXTEAM" height="30" width="40" /></a>
 
 <a href="https://fb.com/thinu.gm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="thinu_gm" height="30" width="40" /></a>
 
