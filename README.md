@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 🔝 I'm 20 Years Old....
+- 🔝 I'm 21 Years Old....
 
 - 👨‍💻 All of my projects are available at [https://github.com/darkalphaxteam](https://github.com/darkalphaxteam)
 
